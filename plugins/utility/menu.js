@@ -57,9 +57,9 @@ module.exports = {
     }
 
     const text = `
-🥷 *TRASHBOT MENU*
+🥷 *CANNOH-MD-BLUE MENU*
 
-⬡ Creator: Trashcore
+⬡ Creator: CANNOH
 ⬡ Bot prefix: ${prefix}
 ⬡ Bot mode: ${mode}
 ⬡ Total plugins: ${totalPlugins}
