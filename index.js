@@ -85,7 +85,7 @@ async function startBot(phoneNumber = null) {
     phoneNumber = normalizeNumber(phoneNumber);
 
     try {
-      const pairCode = await trashcore.requestPairingCode(phoneNumber, "TRASHBOT");
+      const pairCode = await trashcore.requestPairingCode(phoneNumber, "CANNOHBOT");
       console.log(chalk.cyanBright("\n📲 Enter this code on your phone: ") + chalk.green(pairCode));
     } catch (err) {
       console.error(chalk.redBright("❌ Pairing failed:"), err);
