@@ -1,7 +1,7 @@
 # 🤖 ULTRA X BASE
 
 **Version:** 4.0.0  
-**Author:** Giddy Tennor  
+**Author:** ignatius 
 **Platform:** WhatsApp  
 
 ---
