@@ -26,6 +26,6 @@ It provides developers with a clean foundation to build WhatsApp automation tool
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Tennor-modz/Base-bot-V4.git
+git clone https://github.com/47-Cannoh/cannoh-v1.git
 cd ultra-x-base
 npm install
